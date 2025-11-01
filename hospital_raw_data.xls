@@ -1,0 +1,511 @@
+Patient_ID,Name,Age,Gender,Blood_Type,Disease,Admission_Date,Discharge_Date,Days_Admitted,Doctor,Hospital_Department,Bill_Amount,Payment_Method,City,Follow_Up_Required
+P1480,Patient_480,12.0,Feale,O+,Covid-19,2024-01-10,2024-01-11,1,Dr. Iyer,Neurology,36542.0,Cash,Delhi,Yes
+P1449,Patient_449,54.0,Mlae,B+,Covid-19,2024-03-18,2024-03-21,3,Dr. Mehta,Orthopedics,188356.0,Cash,Bengaluru,No
+P1475,Patient_475,,Feale,AB-,Cardiac Arrest,2024-07-13,2024-07-22,9,Dr. Sharma,General Medicine,267888.0,Insurance,Delhi,Yes
+P1434,Patient_434,86.0,Other,A+,Asthma,2024-10-26,2024-10-27,1,Dr. Khan,Neurology,232893.0,Insurance,Chennai,Yes
+P1368,Patient_368,6.0,Other,O-,Covid-19,2024-06-16,2024-06-13,6,Dr. Patel,General Medicine,42197.0,Cash,Chennai,No
+P1055,Patient_55,90.0,Female,O-,Fracture,2024-08-01,2024-08-12,11,Dr. Iyer,General Medicine,394095.0,Insurence,Mumbai,No
+P1322,Patient_322,41.0,Female,A-,Diabetes,2024-04-06,2024-04-02,8,Dr. Iyer,Orthopedics,93170.0,Credit Card,Pune,No
+P1076,Patient_76,93.0,Feale,AB+,Cardiac Arrest,2024-06-19,2024-06-14,3,Dr. Khan,Neurology,316900.0,Cash,Nagpur,Yes
+P1104,Patient_104,45.0,Mlae,A+,Fracture,2024-12-16,2024-12-19,3,Dr. Sharma,Cardiology,97665.0,Cash,Pune,No
+P1347,Patient_347,98.0,Mlae,B+,Fever,2024-09-20,2024-09-24,4,Dr. Patel,Orthopedics,342146.0,Cash,Bengaluru,No
+P1415,Patient_415,60.0,Feale,AB-,Fever,2024-06-04,2024-06-15,11,Dr. Mehta,Pediatrics,487757.0,Cash,Delhi,No
+P1220,Patient_220,59.0,Other,A-,Cardiac Arrest,2024-08-17,2024-09-01,15,Dr. Patel,Cardiology,499181.0,Insurence,Nagpur,Yes
+P1117,Patient_117,35.0,Other,AB+,Fever,2024-06-16,2024-06-29,13,Dr. Mehta,Pediatrics,214695.0,Insurence,Pune,Yes
+P1249,Patient_249,16.0,Female,AB-,Fever,2024-12-24,2025-01-04,11,Dr. Sharma,General Medicine,275146.0,Cash,Bengaluru,No
+P1173,Patient_173,66.0,Mlae,B-,Fracture,2024-06-09,2024-06-24,15,Dr. Sharma,Pediatrics,169670.0,Cash,Nagpur,No
+P1093,Patient_93,85.0,Male,AB+,Asthma,2024-10-03,2024-09-28,10,Dr. Iyer,Pediatrics,4359157.0,Insurance,Chennai,Yes
+P1325,Patient_325,33.0,Male,AB+,Cardiac Arrest,2024-05-03,2024-05-11,8,Dr. Iyer,Neurology,314023.0,Credit Card,Nagpur,No
+P1275,Patient_275,57.0,Other,A+,Diabetes,2024-12-01,2024-11-28,2,Dr. Mehta,Orthopedics,493450.0,Credit Card,Nagpur,Yes
+P1342,Patient_342,51.0,Female,AB-,Fracture,2024-07-20,2024-07-27,7,Dr. Khan,Cardiology,475620.0,Cash,Bengaluru,Yes
+P1070,Patient_70,4.0,Female,A-,Covid-19,2024-11-11,2024-11-15,4,Dr. Khan,Neurology,374598.0,Insurance,Pune,No
+P1394,Patient_394,47.0,Feale,AB+,Covid-19,2024-05-26,2024-06-03,8,Dr. Sharma,Pediatrics,402012.0,Cash,Nagpur,Yes
+P1009,Patient_9,75.0,Feale,O-,Cardiac Arrest,2024-05-02,2024-05-01,3,Dr. Khan,Pediatrics,105850.0,Insurance,Pune,Yes
+P1250,Patient_250,97.0,Female,A+,Asthma,2024-06-10,2024-06-19,9,Dr. Mehta,Neurology,278091.0,Cash,Nagpur,Yes
+P1408,Patient_408,42.0,Male,O+,Fever,2024-03-25,2024-04-03,9,Dr. Sharma,Pediatrics,267972.0,Insurance,Nagpur,Yes
+P1423,Patient_423,,Mlae,AB-,Fever,2024-10-05,2024-10-01,10,Dr. Iyer,Orthopedics,297767.0,Credit Card,Pune,No
+P1451,Patient_451,97.0,Other,A-,Fracture,2024-06-13,2024-06-13,0,Dr. Patel,Pediatrics,201919.0,Cash,Mumbai,No
+P1172,Patient_172,28.0,Mlae,AB-,Fracture,2024-04-12,2024-04-24,12,Dr. Mehta,Neurology,23447.0,Insurence,Bengaluru,Yes
+P1030,Patient_30,59.0,Female,B+,Diabetes,2024-12-10,2024-12-14,4,Dr. Patel,General Medicine,463037.0,Insurance,Mumbai,Yes
+P1448,Patient_448,15.0,Male,O+,Fever,2024-06-27,2024-07-05,8,Dr. Mehta,Neurology,193420.0,Cash,Nagpur,Yes
+P1090,Patient_90,87.0,Male,A+,Cardiac Arrest,2024-03-31,2024-04-09,9,Dr. Sharma,General Medicine,57426.0,Insurance,Mumbai,Yes
+P1381,Patient_381,32.0,Male,O+,Fever,2024-08-21,2024-08-19,8,Dr. Mehta,General Medicine,113032.0,Cash,Pune,Yes
+P1131,Patient_131,62.0,Female,B-,Asthma,2024-12-29,2024-12-24,7,Dr. Patel,Cardiology,359792.0,Credit Card,Nagpur,No
+P1364,Patient_364,92.0,Female,B-,Fracture,2024-04-08,2024-04-15,7,Dr. Sharma,Cardiology,175824.0,Insurence,Delhi,No
+P1073,Patient_73,54.0,Other,AB-,Diabetes,2024-04-03,2024-04-17,14,Dr. Patel,Cardiology,158222.0,Insurence,Mumbai,No
+P1210,Patient_210,52.0,Male,AB+,Covid-19,2024-08-04,2024-08-04,0,Dr. Mehta,Cardiology,148295.0,Cash,Delhi,No
+P1329,Patient_329,20.0,Male,A-,Diabetes,2024-10-09,2024-10-14,5,Dr. Iyer,Orthopedics,34174.0,Cash,Delhi,Yes
+P1369,Patient_369,99.0,Male,AB+,Cardiac Arrest,2024-08-18,2024-08-26,8,Dr. Patel,Neurology,4261.0,Cash,Mumbai,Yes
+P1101,Patient_101,41.0,Male,O+,Fever,2024-04-27,2024-04-27,0,Dr. Patel,Pediatrics,99756.0,Insurence,Delhi,Yes
+P1218,Patient_218,56.0,Feale,A+,Cardiac Arrest,2024-10-20,2024-10-21,1,Dr. Patel,Orthopedics,128498.0,Insurance,Nagpur,No
+P1154,Patient_154,77.0,Other,A-,Covid-19,2024-10-24,2024-11-04,11,Dr. Iyer,Orthopedics,469874.0,Insurance,Delhi,Yes
+P1225,Patient_225,87.0,Female,A+,Cardiac Arrest,2024-09-09,2024-09-04,8,Dr. Iyer,Cardiology,241472.0,Insurance,Pune,No
+P1399,Patient_399,2.0,Mlae,B-,Asthma,2024-06-01,2024-06-05,4,Dr. Sharma,Cardiology,252736.0,Cash,Delhi,No
+P1063,Patient_63,8.0,Female,AB+,Fever,2024-12-02,2024-12-01,10,Dr. Iyer,Orthopedics,388805.0,Credit Card,Chennai,No
+P1002,Patient_2,,Male,O-,Asthma,2024-08-26,2024-08-21,9,Dr. Mehta,Orthopedics,23253.0,Credit Card,Pune,No
+P1441,Patient_441,58.0,Other,B-,Covid-19,2024-06-14,2024-06-25,11,Dr. Mehta,General Medicine,194512.0,Insurance,Bengaluru,Yes
+P1340,Patient_340,30.0,Female,AB+,Fracture,2024-11-18,2024-11-20,2,Dr. Iyer,Pediatrics,215397.0,Cash,Bengaluru,No
+P1082,Patient_82,74.0,Female,B+,Fever,2024-07-25,2024-08-09,15,Dr. Mehta,Orthopedics,396341.0,Insurence,Delhi,Yes
+P1284,Patient_284,16.0,Mlae,O-,Cardiac Arrest,2024-04-14,2024-04-23,9,Dr. Patel,Pediatrics,278993.0,Cash,Chennai,Yes
+P1209,Patient_209,88.0,Male,AB-,Asthma,2024-02-05,2024-02-19,14,Dr. Khan,Neurology,478513.0,Cash,Mumbai,Yes
+P1471,Patient_471,19.0,Feale,A+,Covid-19,2024-06-12,2024-06-20,8,Dr. Patel,Orthopedics,441953.0,Insurence,Pune,No
+P1181,Patient_181,44.0,Other,B-,Covid-19,2024-09-05,2024-09-05,0,Dr. Mehta,Cardiology,327422.0,Credit Card,Mumbai,No
+P1077,Patient_77,63.0,Male,B+,Diabetes,2024-01-03,2024-01-17,14,Dr. Patel,Orthopedics,379501.0,Cash,Chennai,Yes
+P1296,Patient_296,19.0,Feale,A+,Fracture,2024-05-07,2024-05-10,3,Dr. Sharma,General Medicine,76813.0,Credit Card,Chennai,Yes
+P1452,Patient_452,8.0,Feale,AB-,Covid-19,2024-08-25,2024-09-05,11,Dr. Sharma,Neurology,417648.0,Credit Card,Pune,No
+P1495,Patient_495,93.0,Other,B+,Covid-19,2024-12-27,2025-01-02,6,Dr. Mehta,General Medicine,350264.0,Insurence,Nagpur,Yes
+P1425,Patient_425,76.0,Other,A+,Asthma,2024-01-09,2024-01-13,4,Dr. Patel,Neurology,37634.0,Cash,Chennai,Yes
+P1033,Patient_33,60.0,Mlae,O-,Fever,2024-07-30,2024-08-10,11,Dr. Iyer,Neurology,402187.0,Insurance,Mumbai,Yes
+P1079,Patient_79,90.0,Other,O-,Asthma,2024-01-31,2024-02-02,2,Dr. Sharma,Orthopedics,58481.0,Cash,Nagpur,Yes
+P1417,Patient_417,57.0,Male,A-,Fracture,2024-01-31,2024-01-26,3,Dr. Sharma,General Medicine,184024.0,Cash,Delhi,Yes
+P1167,Patient_167,13.0,Other,B-,Asthma,2024-03-28,2024-03-25,7,Dr. Patel,Cardiology,78229.0,Insurance,Delhi,No
+P1068,Patient_68,36.0,Male,AB+,Fever,2024-05-04,2024-05-01,4,Dr. Patel,Neurology,458586.0,Insurance,Nagpur,No
+P1000,Patient_0,52.0,Mlae,AB+,Cardiac Arrest,2024-02-08,2024-02-05,1,Dr. Mehta,Orthopedics,43971.0,Insurence,Chennai,Yes
+P1084,Patient_84,14.0,Male,A-,Asthma,2024-03-21,2024-03-22,1,Dr. Patel,Orthopedics,28170.0,Insurance,Chennai,Yes
+P1011,Patient_11,24.0,Female,B-,Diabetes,2024-03-08,2024-03-18,10,Dr. Mehta,General Medicine,139924.0,Credit Card,Delhi,Yes
+P1229,Patient_229,19.0,Feale,A-,Asthma,2024-05-10,2024-05-08,5,Dr. Sharma,General Medicine,325853.0,Cash,Chennai,Yes
+P1022,Patient_22,21.0,Female,A+,Cardiac Arrest,2024-07-17,2024-07-29,12,Dr. Iyer,Neurology,321972.0,Credit Card,Pune,Yes
+P1323,Patient_323,33.0,Feale,B-,Fracture,2024-06-16,2024-06-13,7,Dr. Khan,Neurology,273312.0,Credit Card,Pune,Yes
+P1078,Patient_78,18.0,Other,O-,Fever,2024-09-16,2024-09-17,1,Dr. Patel,Pediatrics,121052.0,Cash,Pune,No
+P1247,Patient_247,86.0,Other,O-,Diabetes,2024-03-13,2024-03-10,10,Dr. Patel,Orthopedics,467982.0,Insurence,Pune,No
+P1072,Patient_72,6.0,Female,O+,Fever,2024-10-05,2024-10-01,6,Dr. Patel,Orthopedics,56400.0,Cash,Bengaluru,Yes
+P1474,Patient_474,55.0,Male,B+,Covid-19,2024-11-04,2024-11-07,3,Dr. Khan,General Medicine,215981.0,Cash,Nagpur,No
+P1335,Patient_335,48.0,Female,AB+,Asthma,2024-07-13,2024-07-23,10,Dr. Mehta,Orthopedics,328190.0,Insurance,Pune,Yes
+P1018,Patient_18,38.0,Other,A-,Fracture,2024-08-30,2024-08-26,3,Dr. Iyer,Neurology,446923.0,Insurance,Nagpur,No
+P1280,Patient_280,94.0,Other,B+,Covid-19,2024-06-26,2024-07-10,14,Dr. Iyer,Orthopedics,165834.0,Insurance,Bengaluru,No
+P1124,Patient_124,,Other,AB+,Covid-19,2024-02-19,2024-02-29,10,Dr. Iyer,Orthopedics,240553.0,Credit Card,Nagpur,Yes
+P1442,Patient_442,58.0,Male,A-,Covid-19,2024-05-03,2024-05-13,10,Dr. Mehta,Pediatrics,439415.0,Cash,Nagpur,Yes
+P1248,Patient_248,11.0,Male,O+,Fever,2024-07-22,2024-07-24,2,Dr. Sharma,Pediatrics,443416.0,Cash,Pune,No
+P1039,Patient_39,62.0,Male,O+,Cardiac Arrest,2024-03-19,2024-03-21,2,Dr. Sharma,General Medicine,301855.0,Cash,Chennai,No
+P1460,Patient_460,47.0,Male,O+,Asthma,2024-08-14,2024-08-18,4,Dr. Sharma,Orthopedics,377960.0,Insurence,Chennai,No
+P1046,Patient_46,21.0,Mlae,A+,Fracture,2024-10-12,2024-10-20,8,Dr. Khan,Orthopedics,6135.0,Insurance,Mumbai,Yes
+P1301,Patient_301,24.0,Mlae,A-,Fever,2024-02-09,2024-02-20,11,Dr. Iyer,Neurology,187378.0,Credit Card,Delhi,No
+P1195,Patient_195,70.0,Other,O-,Cardiac Arrest,2024-06-03,2024-06-05,2,Dr. Sharma,Pediatrics,317942.0,Insurance,Pune,Yes
+P1358,Patient_358,4.0,Other,AB-,Fracture,2024-12-21,2024-12-26,5,Dr. Mehta,Orthopedics,441787.0,Cash,Nagpur,No
+P1104,Patient_104,45.0,Mlae,A+,Fracture,2024-12-16,2024-12-19,3,Dr. Sharma,Cardiology,97665.0,Cash,Pune,No
+P1281,Patient_281,42.0,Other,B+,Cardiac Arrest,2024-12-21,2024-12-30,9,Dr. Khan,Neurology,272403.0,Insurance,Bengaluru,Yes
+P1148,Patient_148,,Male,AB-,Diabetes,2024-10-18,2024-10-18,0,Dr. Mehta,Neurology,1065851.0,Credit Card,Mumbai,No
+P1155,Patient_155,51.0,Other,O-,Fever,2024-10-14,2024-10-20,6,Dr. Patel,Orthopedics,473328.0,Cash,Pune,Yes
+P1446,Patient_446,42.0,Feale,A-,Fracture,2024-09-09,2024-09-11,2,Dr. Sharma,Cardiology,3496147.0,Credit Card,Chennai,No
+P1182,Patient_182,84.0,Male,AB+,Covid-19,2024-04-16,2024-04-20,4,Dr. Sharma,General Medicine,57077.0,Cash,Pune,No
+P1069,Patient_69,50.0,Feale,AB+,Asthma,2024-07-18,2024-07-16,8,Dr. Khan,Neurology,344829.0,Insurance,Pune,Yes
+P1244,Patient_244,69.0,Other,A+,Fever,2024-02-24,2024-02-25,1,Dr. Patel,Pediatrics,471164.0,Cash,Nagpur,Yes
+P1298,Patient_298,80.0,Female,B+,Cardiac Arrest,2024-06-19,2024-06-22,3,Dr. Iyer,Pediatrics,53631.0,Cash,Chennai,No
+P1412,Patient_412,25.0,Male,A-,Diabetes,2024-12-28,2025-01-01,4,Dr. Patel,Orthopedics,295481.0,Insurence,Nagpur,No
+P1073,Patient_73,54.0,Other,AB-,Diabetes,2024-04-03,2024-04-17,14,Dr. Patel,Cardiology,158222.0,Insurence,Mumbai,No
+P1302,Patient_302,54.0,Female,O-,Cardiac Arrest,2024-12-06,2024-12-13,7,Dr. Mehta,General Medicine,330458.0,Credit Card,Mumbai,Yes
+P1493,Patient_493,69.0,Feale,B-,Fever,2024-12-07,2024-12-11,4,Dr. Mehta,General Medicine,498574.0,Credit Card,Pune,Yes
+P1180,Patient_180,28.0,Feale,A+,Fracture,2024-01-31,2024-02-05,5,Dr. Mehta,Pediatrics,352104.0,Cash,Pune,No
+P1374,Patient_374,53.0,Female,A-,Covid-19,2024-04-09,2024-04-09,0,Dr. Sharma,Pediatrics,293077.0,Insurance,Delhi,Yes
+P1132,Patient_132,88.0,Female,O+,Asthma,2024-11-11,2024-11-07,3,Dr. Iyer,Pediatrics,27556.0,Insurence,Mumbai,No
+P1341,Patient_341,38.0,Other,O+,Diabetes,2024-09-08,2024-09-12,4,Dr. Iyer,Orthopedics,147639.0,Cash,Pune,Yes
+P1437,Patient_437,58.0,Female,O-,Cardiac Arrest,2024-12-03,2024-12-03,0,Dr. Patel,Neurology,85276.0,Cash,Mumbai,Yes
+P1176,Patient_176,62.0,Female,O+,Asthma,2024-03-24,2024-04-03,10,Dr. Mehta,General Medicine,258190.0,Cash,Bengaluru,No
+P1310,Patient_310,99.0,Other,B-,Diabetes,2024-06-09,2024-06-17,8,Dr. Sharma,Cardiology,474367.0,Cash,Mumbai,No
+P1349,Patient_349,30.0,Mlae,A+,Covid-19,2024-03-22,2024-03-18,7,Dr. Iyer,Neurology,151302.0,Insurance,Pune,Yes
+P1485,Patient_485,96.0,Female,A-,Fever,2024-03-04,2024-03-10,6,Dr. Iyer,General Medicine,366256.0,Credit Card,Chennai,No
+P1137,Patient_137,91.0,Mlae,B+,Fracture,2024-09-12,2024-09-27,15,Dr. Mehta,Cardiology,205058.0,Cash,Mumbai,Yes
+P1497,Patient_497,76.0,Male,B+,Asthma,2024-12-23,2024-12-22,10,Dr. Iyer,Neurology,446865.0,Credit Card,Delhi,No
+P1271,Patient_271,82.0,Male,O+,Asthma,2024-01-20,2024-01-24,4,Dr. Sharma,Orthopedics,310877.0,Credit Card,Delhi,No
+P1440,Patient_440,22.0,Other,O-,Fever,2024-12-13,2024-12-25,12,Dr. Patel,Neurology,185852.0,Insurence,Pune,Yes
+P1353,Patient_353,97.0,Mlae,A-,Cardiac Arrest,2024-03-17,2024-03-30,13,Dr. Khan,Orthopedics,232147.0,Credit Card,Pune,Yes
+P1086,Patient_86,48.0,Male,B-,Diabetes,2024-03-12,2024-03-17,5,Dr. Sharma,General Medicine,284239.0,Insurence,Nagpur,No
+P1075,Patient_75,54.0,Other,B+,Fracture,2024-02-28,2024-03-04,5,Dr. Sharma,Cardiology,438086.0,Cash,Nagpur,Yes
+P1447,Patient_447,70.0,Mlae,AB+,Fracture,2024-12-22,2024-12-26,4,Dr. Mehta,Pediatrics,80279.0,Cash,Bengaluru,No
+P1015,Patient_15,2.0,Other,AB-,Fever,2024-10-22,2024-11-06,15,Dr. Sharma,Orthopedics,63001.0,Cash,Bengaluru,No
+P1203,Patient_203,44.0,Feale,A+,Fever,2024-12-17,2024-12-16,1,Dr. Mehta,Cardiology,3371801.0,Credit Card,Bengaluru,No
+P1274,Patient_274,,Male,AB+,Cardiac Arrest,2024-08-02,2024-08-09,7,Dr. Iyer,Pediatrics,144312.0,Credit Card,Nagpur,Yes
+P1393,Patient_393,32.0,Female,A-,Fever,2024-06-17,2024-06-28,11,Dr. Iyer,Neurology,204416.0,Insurence,Pune,No
+P1019,Patient_19,2.0,Feale,B-,Cardiac Arrest,2024-07-05,2024-07-07,2,Dr. Mehta,Neurology,35243.0,Insurance,Delhi,Yes
+P1453,Patient_453,53.0,Female,O+,Covid-19,2024-11-28,2024-11-24,10,Dr. Iyer,Neurology,259324.0,Cash,Pune,No
+P1338,Patient_338,86.0,Feale,AB+,Fracture,2024-08-05,2024-08-09,4,Dr. Mehta,Orthopedics,129795.0,Insurance,Delhi,Yes
+P1056,Patient_56,53.0,Other,AB-,Cardiac Arrest,2024-05-28,2024-06-08,11,Dr. Iyer,General Medicine,281215.0,Cash,Chennai,No
+P1333,Patient_333,17.0,Female,A+,Fracture,2024-07-21,2024-07-26,5,Dr. Khan,Neurology,112155.0,Cash,Bengaluru,No
+P1361,Patient_361,49.0,Mlae,B+,Cardiac Arrest,2024-06-24,2024-07-05,11,Dr. Khan,General Medicine,281713.0,Insurence,Delhi,No
+P1238,Patient_238,55.0,Feale,B+,Cardiac Arrest,2024-06-13,2024-06-21,8,Dr. Khan,Cardiology,480082.0,Cash,Delhi,No
+P1405,Patient_405,48.0,Female,O-,Asthma,2024-05-02,2024-04-27,7,Dr. Iyer,Neurology,498217.0,Cash,Delhi,Yes
+P1307,Patient_307,36.0,Mlae,O-,Covid-19,2024-06-26,2024-06-23,5,Dr. Sharma,Neurology,360142.0,Insurence,Pune,Yes
+P1468,Patient_468,19.0,Female,O-,Fever,2024-10-11,2024-10-13,2,Dr. Sharma,General Medicine,155262.0,Insurance,Mumbai,No
+P1431,Patient_431,32.0,Mlae,AB-,Cardiac Arrest,2024-02-13,2024-02-16,3,Dr. Sharma,Cardiology,72028.0,Cash,Mumbai,Yes
+P1489,Patient_489,16.0,Feale,A-,Fever,2024-06-20,2024-06-17,5,Dr. Mehta,Cardiology,152158.0,Cash,Bengaluru,No
+P1025,Patient_25,58.0,Female,O-,Cardiac Arrest,2024-06-26,2024-06-25,6,Dr. Patel,Orthopedics,270854.0,Cash,Chennai,Yes
+P1365,Patient_365,30.0,Feale,O+,Asthma,2024-01-24,2024-01-31,7,Dr. Khan,Pediatrics,165399.0,Cash,Chennai,No
+P1042,Patient_42,64.0,Mlae,O-,Cardiac Arrest,2024-06-07,2024-06-14,7,Dr. Khan,Pediatrics,67794.0,Insurance,Chennai,Yes
+P1140,Patient_140,99.0,Male,A-,Fever,2024-07-22,2024-07-26,4,Dr. Khan,Cardiology,204041.0,Insurance,Bengaluru,No
+P1418,Patient_418,36.0,Other,O-,Diabetes,2024-06-22,2024-06-22,0,Dr. Khan,Orthopedics,138535.0,Insurance,Nagpur,No
+P1316,Patient_316,82.0,Female,B+,Asthma,2024-08-12,2024-08-21,9,Dr. Mehta,Neurology,74692.0,Cash,Pune,Yes
+P1126,Patient_126,12.0,Other,AB-,Cardiac Arrest,2024-09-14,2024-09-29,15,Dr. Mehta,Orthopedics,431332.0,Insurence,Bengaluru,No
+P1332,Patient_332,67.0,Feale,AB-,Fracture,2024-03-08,2024-03-17,9,Dr. Iyer,Pediatrics,139653.0,Insurance,Mumbai,Yes
+P1031,Patient_31,42.0,Male,A+,Diabetes,2024-02-17,2024-02-24,7,Dr. Khan,Orthopedics,302135.0,Credit Card,Mumbai,Yes
+P1113,Patient_113,63.0,Feale,A+,Fever,2024-09-30,2024-10-04,4,Dr. Sharma,Cardiology,245051.0,Insurence,Nagpur,Yes
+P1153,Patient_153,42.0,Other,AB+,Fever,2024-05-31,2024-06-02,2,Dr. Patel,Neurology,296746.0,Cash,Mumbai,Yes
+P1211,Patient_211,62.0,Male,O+,Fever,2024-07-01,2024-07-13,12,Dr. Patel,Cardiology,467453.0,Insurence,Delhi,No
+P1422,Patient_422,8.0,Female,AB+,Covid-19,2024-11-04,2024-11-09,5,Dr. Sharma,General Medicine,394720.0,Cash,Bengaluru,Yes
+P1057,Patient_57,2.0,Mlae,B+,Cardiac Arrest,2024-07-15,2024-07-26,11,Dr. Mehta,Pediatrics,22074.0,Insurence,Mumbai,Yes
+P1266,Patient_266,71.0,Other,B-,Asthma,2024-06-09,2024-06-15,6,Dr. Mehta,Orthopedics,444632.0,Insurance,Chennai,Yes
+P1024,Patient_24,76.0,Mlae,AB-,Covid-19,2024-09-11,2024-09-06,7,Dr. Iyer,Orthopedics,402455.0,Insurence,Chennai,Yes
+P1017,Patient_17,30.0,Female,A+,Fracture,2024-02-14,2024-02-23,9,Dr. Sharma,Orthopedics,124775.0,Cash,Nagpur,Yes
+P1185,Patient_185,75.0,Other,O-,Asthma,2024-06-18,2024-07-03,15,Dr. Patel,Neurology,467122.0,Insurance,Bengaluru,Yes
+P1066,Patient_66,78.0,Female,A+,Cardiac Arrest,2024-09-13,2024-09-10,8,Dr. Patel,Pediatrics,389720.0,Cash,Bengaluru,Yes
+P1402,Patient_402,33.0,Feale,O+,Covid-19,2024-07-11,2024-07-15,4,Dr. Iyer,Neurology,432634.0,Insurence,Chennai,Yes
+P1396,Patient_396,23.0,Other,B+,Fracture,2024-01-05,2024-01-06,1,Dr. Khan,Neurology,56245.0,Cash,Nagpur,Yes
+P1094,Patient_94,80.0,Other,B+,Diabetes,2024-04-18,2024-04-30,12,Dr. Mehta,Cardiology,356195.0,Credit Card,Mumbai,No
+P1496,Patient_496,67.0,Male,A+,Fever,2024-12-23,2024-12-23,0,Dr. Khan,Orthopedics,379033.0,Cash,Nagpur,Yes
+P1354,Patient_354,69.0,Mlae,B+,Diabetes,2024-07-11,2024-07-11,0,Dr. Patel,General Medicine,482661.0,Insurence,Pune,No
+P1023,Patient_23,33.0,Female,AB-,Fever,2024-06-29,2024-07-07,8,Dr. Iyer,Neurology,263716.0,Insurence,Nagpur,No
+P1231,Patient_231,53.0,Male,A-,Fever,2024-01-11,2024-01-10,7,Dr. Patel,Orthopedics,246325.0,Cash,Delhi,Yes
+P1265,Patient_265,96.0,Male,A+,Asthma,2024-02-18,2024-02-13,4,Dr. Sharma,Pediatrics,313581.0,Insurence,Mumbai,No
+P1208,Patient_208,96.0,Female,B+,Asthma,2024-05-03,2024-05-10,7,Dr. Iyer,Cardiology,120362.0,Insurance,Nagpur,Yes
+P1005,Patient_5,21.0,Other,O-,Cardiac Arrest,2024-03-17,2024-03-12,4,Dr. Iyer,Orthopedics,159462.0,Cash,Nagpur,No
+P1116,Patient_116,8.0,Female,O+,Covid-19,2024-08-21,2024-09-05,15,Dr. Patel,General Medicine,45732.0,Cash,Delhi,No
+P1045,Patient_45,7.0,Feale,B-,Asthma,2024-02-17,2024-02-15,2,Dr. Mehta,Neurology,134970.0,Cash,Bengaluru,Yes
+P1394,Patient_394,47.0,Feale,AB+,Covid-19,2024-05-26,2024-06-03,8,Dr. Sharma,Pediatrics,402012.0,Cash,Nagpur,Yes
+P1016,Patient_16,88.0,Female,B+,Diabetes,2024-06-29,2024-06-26,9,Dr. Patel,Neurology,182231.0,Cash,Bengaluru,Yes
+P1472,Patient_472,92.0,Male,AB+,Fever,2024-02-25,2024-02-29,4,Dr. Iyer,Neurology,464785.0,Cash,Delhi,Yes
+P1461,Patient_461,99.0,Female,A+,Diabetes,2024-01-05,2024-01-17,12,Dr. Mehta,Cardiology,211754.0,Insurence,Mumbai,Yes
+P1003,Patient_3,72.0,Other,AB+,Asthma,2024-01-13,2024-01-24,11,Dr. Patel,Orthopedics,459382.0,Insurance,Delhi,Yes
+P1227,Patient_227,97.0,Female,B+,Covid-19,2024-07-04,2024-07-06,2,Dr. Patel,Pediatrics,248183.0,Credit Card,Chennai,Yes
+P1482,Patient_482,58.0,Mlae,A-,Covid-19,2024-01-19,2024-01-17,9,Dr. Iyer,Orthopedics,101239.0,Insurence,Nagpur,No
+P1060,Patient_60,60.0,Male,A+,Fever,2024-11-04,2024-11-12,8,Dr. Iyer,Neurology,41901.0,Cash,Chennai,No
+P1110,Patient_110,1.0,Mlae,O+,Cardiac Arrest,2024-07-29,2024-08-05,7,Dr. Patel,Cardiology,425306.0,Cash,Bengaluru,Yes
+P1324,Patient_324,68.0,Male,A+,Asthma,2024-12-04,2024-12-13,9,Dr. Patel,Neurology,481713.0,Cash,Delhi,No
+P1297,Patient_297,48.0,Female,O-,Asthma,2024-10-30,2024-11-03,4,Dr. Iyer,Orthopedics,99136.0,Credit Card,Bengaluru,No
+P1029,Patient_29,91.0,Feale,AB-,Fever,2024-05-17,2024-05-25,8,Dr. Iyer,Orthopedics,221055.0,Insurence,Chennai,Yes
+P1192,Patient_192,62.0,Other,B+,Asthma,2024-07-10,2024-07-17,7,Dr. Iyer,Pediatrics,188339.0,Insurance,Pune,Yes
+P1464,Patient_464,52.0,Mlae,B-,Covid-19,2024-01-31,2024-02-05,5,Dr. Patel,General Medicine,185965.0,Credit Card,Chennai,Yes
+P1026,Patient_26,22.0,Male,B-,Asthma,2024-09-13,2024-09-19,6,Dr. Iyer,General Medicine,416600.0,Cash,Nagpur,No
+P1007,Patient_7,87.0,Feale,A+,Fever,2024-03-29,2024-04-03,5,Dr. Patel,Cardiology,184650.0,Insurance,Pune,No
+P1462,Patient_462,,Mlae,O-,Covid-19,2024-10-19,2024-11-02,14,Dr. Sharma,Pediatrics,125053.0,Cash,Bengaluru,No
+P1108,Patient_108,9.0,Other,A-,Cardiac Arrest,2024-04-21,2024-04-22,1,Dr. Khan,Neurology,83835.0,Credit Card,Mumbai,Yes
+P1037,Patient_37,62.0,Mlae,O+,Fever,2024-12-21,2025-01-05,15,Dr. Khan,General Medicine,82257.0,Credit Card,Pune,No
+P1157,Patient_157,96.0,Other,B-,Asthma,2024-10-01,2024-10-07,6,Dr. Iyer,Pediatrics,160588.0,Cash,Bengaluru,Yes
+P1476,Patient_476,90.0,Male,A-,Fever,2024-07-25,2024-07-22,1,Dr. Khan,Neurology,258638.0,Cash,Delhi,Yes
+P1118,Patient_118,35.0,Other,AB+,Asthma,2024-12-01,2024-12-04,3,Dr. Mehta,Pediatrics,310449.0,Cash,Delhi,Yes
+P1114,Patient_114,11.0,Feale,O-,Fracture,2024-04-10,2024-04-21,11,Dr. Patel,Neurology,159547.0,Insurance,Chennai,No
+P1175,Patient_175,45.0,Other,AB-,Diabetes,2024-10-17,2024-10-22,5,Dr. Khan,General Medicine,223823.0,Insurance,Nagpur,Yes
+P1194,Patient_194,3.0,Feale,A+,Asthma,2024-06-21,2024-06-28,7,Dr. Khan,Pediatrics,419168.0,Insurance,Mumbai,Yes
+P1318,Patient_318,54.0,Female,A-,Cardiac Arrest,2024-09-22,2024-09-22,0,Dr. Patel,Pediatrics,402584.0,Cash,Bengaluru,Yes
+P1144,Patient_144,1.0,Male,B-,Fracture,2024-02-20,2024-02-26,6,Dr. Patel,Neurology,341119.0,Cash,Delhi,Yes
+P1376,Patient_376,99.0,Female,A+,Asthma,2024-11-03,2024-11-06,3,Dr. Iyer,Cardiology,42583.0,Cash,Pune,Yes
+P1429,Patient_429,98.0,Male,O-,Diabetes,2024-04-08,2024-04-23,15,Dr. Patel,Pediatrics,332792.0,Insurence,Pune,No
+P1204,Patient_204,24.0,Mlae,A+,Fever,2024-12-11,2024-12-24,13,Dr. Sharma,Orthopedics,337098.0,Cash,Delhi,No
+P1321,Patient_321,61.0,Mlae,O-,Fever,2024-05-18,2024-05-18,0,Dr. Patel,Pediatrics,48403.0,Insurence,Pune,No
+P1362,Patient_362,17.0,Other,AB-,Fracture,2024-12-31,2024-12-29,9,Dr. Patel,Neurology,275334.0,Insurance,Delhi,Yes
+P1454,Patient_454,60.0,Feale,A-,Asthma,2024-02-06,2024-02-10,4,Dr. Sharma,Orthopedics,197161.0,Insurance,Mumbai,No
+P1141,Patient_141,47.0,Female,B+,Asthma,2024-06-27,2024-07-08,11,Dr. Patel,General Medicine,35866.0,Cash,Delhi,Yes
+P1494,Patient_494,22.0,Male,O-,Asthma,2024-04-07,2024-04-07,0,Dr. Sharma,Orthopedics,431852.0,Cash,Chennai,No
+P1067,Patient_67,81.0,Mlae,A+,Asthma,2024-03-11,2024-03-20,9,Dr. Iyer,Neurology,1658607.0,Insurance,Delhi,No
+P1261,Patient_261,90.0,Female,AB+,Asthma,2024-05-15,2024-05-12,2,Dr. Sharma,Orthopedics,212748.0,Insurence,Chennai,Yes
+P1168,Patient_168,32.0,Feale,B+,Covid-19,2024-12-09,2024-12-16,7,Dr. Sharma,Cardiology,106648.0,Insurance,Mumbai,No
+P1155,Patient_155,51.0,Other,O-,Fever,2024-10-14,2024-10-20,6,Dr. Patel,Orthopedics,473328.0,Cash,Pune,Yes
+P1383,Patient_383,,Mlae,B-,Asthma,2024-05-30,2024-06-12,13,Dr. Iyer,Pediatrics,306748.0,Insurance,Delhi,No
+P1245,Patient_245,98.0,Female,AB+,Diabetes,2024-11-16,2024-11-14,9,Dr. Iyer,Cardiology,181526.0,Insurence,Delhi,Yes
+P1193,Patient_193,77.0,Female,AB+,Covid-19,2024-01-02,2024-01-10,8,Dr. Sharma,Cardiology,477595.0,Cash,Bengaluru,No
+P1255,Patient_255,93.0,Male,O-,Covid-19,2024-06-29,2024-07-13,14,Dr. Iyer,Cardiology,316286.0,Credit Card,Chennai,Yes
+P1109,Patient_109,88.0,Male,A-,Asthma,2024-08-05,2024-08-09,4,Dr. Mehta,Orthopedics,124232.0,Cash,Mumbai,Yes
+P1487,Patient_487,89.0,Other,B-,Diabetes,2024-03-16,2024-03-16,0,Dr. Khan,General Medicine,439625.0,Cash,Delhi,Yes
+P1145,Patient_145,5.0,Other,B+,Fever,2024-02-04,2024-02-19,15,Dr. Patel,Pediatrics,437071.0,Insurence,Nagpur,Yes
+P1092,Patient_92,40.0,Feale,O-,Cardiac Arrest,2024-07-03,2024-07-05,2,Dr. Patel,Orthopedics,290963.0,Credit Card,Chennai,Yes
+P1152,Patient_152,90.0,Female,AB+,Asthma,2024-03-02,2024-02-26,4,Dr. Mehta,Pediatrics,435934.0,Insurence,Delhi,No
+P1228,Patient_228,1.0,Feale,O-,Asthma,2024-08-30,2024-08-27,6,Dr. Sharma,Cardiology,156455.0,Insurence,Nagpur,Yes
+P1416,Patient_416,7.0,Male,A+,Fever,2024-01-01,2024-01-01,0,Dr. Khan,Orthopedics,483512.0,Insurence,Bengaluru,No
+P1083,Patient_83,62.0,Other,AB-,Diabetes,2024-02-23,2024-02-28,5,Dr. Patel,Neurology,200137.0,Insurance,Mumbai,Yes
+P1272,Patient_272,1.0,Other,AB-,Cardiac Arrest,2024-02-25,2024-02-28,3,Dr. Sharma,Cardiology,392346.0,Cash,Chennai,Yes
+P1165,Patient_165,29.0,Feale,AB+,Fever,2024-05-27,2024-05-28,1,Dr. Sharma,General Medicine,125950.0,Insurence,Delhi,Yes
+P1163,Patient_163,15.0,Feale,A+,Covid-19,2024-10-09,2024-10-13,4,Dr. Khan,Pediatrics,143559.0,Insurence,Chennai,Yes
+P1199,Patient_199,62.0,Other,O-,Cardiac Arrest,2024-04-01,2024-04-08,7,Dr. Mehta,General Medicine,189598.0,Cash,Bengaluru,Yes
+P1237,Patient_237,68.0,Other,B+,Fever,2024-09-14,2024-09-16,2,Dr. Patel,Pediatrics,17282.0,Credit Card,Delhi,No
+P1074,Patient_74,4.0,Mlae,AB-,Fever,2024-12-07,2024-12-07,0,Dr. Patel,General Medicine,33852.0,Credit Card,Delhi,Yes
+P1314,Patient_314,93.0,Mlae,AB+,Fracture,2024-07-19,2024-07-17,2,Dr. Iyer,Cardiology,403067.0,Insurance,Nagpur,No
+P1222,Patient_222,2.0,Feale,B+,Diabetes,2024-08-11,2024-08-21,10,Dr. Khan,Cardiology,14109.0,Credit Card,Nagpur,No
+P1479,Patient_479,9.0,Mlae,A+,Fever,2024-03-05,2024-03-01,3,Dr. Patel,Orthopedics,231010.0,Insurance,Pune,Yes
+P1119,Patient_119,33.0,Mlae,B-,Diabetes,2024-01-05,2024-01-03,5,Dr. Mehta,Cardiology,179109.0,Insurence,Nagpur,No
+P1286,Patient_286,60.0,Other,O-,Fever,2024-12-15,2024-12-18,3,Dr. Iyer,General Medicine,370252.0,Cash,Bengaluru,Yes
+P1304,Patient_304,24.0,Male,A+,Diabetes,2024-03-20,2024-03-25,5,Dr. Patel,Neurology,424381.0,Cash,Delhi,Yes
+P1424,Patient_424,,Male,AB-,Fever,2024-06-04,2024-06-19,15,Dr. Mehta,Neurology,454372.0,Insurence,Nagpur,No
+P1360,Patient_360,64.0,Mlae,O-,Cardiac Arrest,2024-10-09,2024-10-20,11,Dr. Patel,Cardiology,364455.0,Insurence,Pune,Yes
+P1407,Patient_407,93.0,Mlae,A-,Cardiac Arrest,2024-06-02,2024-06-08,6,Dr. Iyer,Neurology,411940.0,Credit Card,Mumbai,Yes
+P1234,Patient_234,32.0,Male,B+,Asthma,2024-07-01,2024-07-07,6,Dr. Sharma,General Medicine,282495.0,Insurance,Delhi,Yes
+P1380,Patient_380,85.0,Female,AB-,Asthma,2024-12-12,2024-12-26,14,Dr. Khan,Orthopedics,419216.0,Insurence,Bengaluru,Yes
+P1478,Patient_478,23.0,Other,O+,Fracture,2024-10-02,2024-10-05,3,Dr. Mehta,Neurology,150049.0,Insurence,Mumbai,Yes
+P1390,Patient_390,67.0,Mlae,O+,Cardiac Arrest,2024-06-10,2024-06-14,4,Dr. Mehta,Orthopedics,189116.0,Insurence,Delhi,Yes
+P1278,Patient_278,23.0,Other,O-,Asthma,2024-12-07,2024-12-05,5,Dr. Patel,Neurology,231416.0,Cash,Nagpur,No
+P1036,Patient_36,62.0,Female,B+,Fever,2024-06-23,2024-07-06,13,Dr. Patel,Pediatrics,210139.0,Insurence,Nagpur,Yes
+P1196,Patient_196,72.0,Other,O+,Asthma,2024-07-26,2024-07-28,2,Dr. Mehta,Orthopedics,100696.0,Cash,Pune,No
+P1139,Patient_139,65.0,Feale,B-,Covid-19,2024-07-31,2024-07-27,2,Dr. Patel,Neurology,424225.0,Cash,Chennai,No
+P1371,Patient_371,24.0,Male,AB-,Diabetes,2024-07-07,2024-07-03,7,Dr. Iyer,Orthopedics,159584.0,Cash,Nagpur,Yes
+P1253,Patient_253,70.0,Other,AB+,Diabetes,2024-09-14,2024-09-12,2,Dr. Khan,Cardiology,118219.0,Credit Card,Chennai,No
+P1289,Patient_289,48.0,Mlae,O+,Asthma,2024-04-20,2024-05-01,11,Dr. Iyer,Cardiology,391032.0,Insurence,Delhi,Yes
+P1290,Patient_290,12.0,Other,O+,Fever,2024-01-26,2024-02-02,7,Dr. Sharma,Neurology,65095.0,Insurance,Chennai,No
+P1059,Patient_59,92.0,Mlae,O-,Asthma,2024-08-13,2024-08-22,9,Dr. Iyer,Cardiology,69843.0,Cash,Bengaluru,No
+P1111,Patient_111,8.0,Feale,B+,Diabetes,2024-05-29,2024-05-28,2,Dr. Iyer,General Medicine,220561.0,Cash,Mumbai,No
+P1089,Patient_89,78.0,Female,O+,Fever,2024-06-08,2024-06-10,2,Dr. Patel,Neurology,273896.0,Insurance,Pune,No
+P1268,Patient_268,33.0,Female,O-,Diabetes,2024-08-28,2024-09-12,15,Dr. Mehta,Neurology,139888.0,Credit Card,Bengaluru,Yes
+P1006,Patient_6,83.0,Male,AB+,Fracture,2024-08-20,2024-08-30,10,Dr. Mehta,Neurology,352808.0,Cash,Mumbai,Yes
+P1367,Patient_367,46.0,Other,O+,Fever,2024-06-08,2024-06-07,10,Dr. Khan,Pediatrics,481141.0,Insurance,Pune,Yes
+P1351,Patient_351,28.0,Feale,AB+,Covid-19,2024-07-06,2024-07-06,0,Dr. Sharma,Orthopedics,438571.0,Cash,Nagpur,Yes
+P1392,Patient_392,24.0,Feale,B+,Cardiac Arrest,2024-03-31,2024-04-11,11,Dr. Patel,Pediatrics,360199.0,Insurence,Mumbai,Yes
+P1158,Patient_158,52.0,Male,A-,Covid-19,2024-07-28,2024-07-26,2,Dr. Khan,Neurology,131295.0,Credit Card,Pune,Yes
+P1150,Patient_150,79.0,Mlae,O-,Fever,2024-11-10,2024-11-13,3,Dr. Khan,Neurology,413274.0,Cash,Pune,Yes
+P1177,Patient_177,57.0,Feale,AB-,Asthma,2024-02-05,2024-02-17,12,Dr. Iyer,Orthopedics,208402.0,Insurence,Delhi,No
+P1421,Patient_421,65.0,Feale,O-,Fracture,2024-03-11,2024-03-23,12,Dr. Sharma,Cardiology,6648.0,Cash,Pune,Yes
+P1184,Patient_184,62.0,Mlae,A+,Covid-19,2024-02-04,2024-02-03,7,Dr. Sharma,Neurology,104932.0,Insurance,Mumbai,Yes
+P1287,Patient_287,2.0,Male,O+,Asthma,2024-03-23,2024-03-23,0,Dr. Patel,Pediatrics,353853.0,Insurence,Pune,No
+P1010,Patient_10,88.0,Female,B-,Covid-19,2024-06-08,2024-06-03,9,Dr. Khan,General Medicine,427874.0,Insurence,Mumbai,No
+P1388,Patient_388,54.0,Male,A+,Fracture,2024-07-24,2024-08-07,14,Dr. Mehta,General Medicine,269554.0,Cash,Delhi,Yes
+P1103,Patient_103,15.0,Mlae,AB+,Cardiac Arrest,2024-05-04,2024-05-05,1,Dr. Iyer,Pediatrics,404803.0,Credit Card,Mumbai,Yes
+P1081,Patient_81,34.0,Feale,AB+,Diabetes,2024-01-11,2024-01-14,3,Dr. Patel,Orthopedics,35691.0,Credit Card,Nagpur,No
+P1038,Patient_38,47.0,Feale,O+,Asthma,2024-02-25,2024-02-24,5,Dr. Sharma,Orthopedics,479958.0,Cash,Delhi,No
+P1320,Patient_320,80.0,Mlae,B+,Fever,2024-09-22,2024-10-02,10,Dr. Sharma,Orthopedics,229208.0,Credit Card,Chennai,Yes
+P1198,Patient_198,9.0,Other,A-,Diabetes,2024-03-24,2024-04-04,11,Dr. Mehta,Orthopedics,293660.0,Credit Card,Mumbai,No
+P1262,Patient_262,67.0,Male,A+,Fracture,2024-08-16,2024-08-21,5,Dr. Patel,Orthopedics,447091.0,Insurence,Chennai,No
+P1146,Patient_146,90.0,Other,O-,Fracture,2024-11-12,2024-11-17,5,Dr. Mehta,Cardiology,345701.0,Insurance,Bengaluru,No
+P1400,Patient_400,90.0,Mlae,B-,Cardiac Arrest,2024-05-24,2024-05-19,5,Dr. Mehta,General Medicine,322701.0,Cash,Pune,Yes
+P1147,Patient_147,14.0,Female,A-,Fever,2024-06-17,2024-06-16,10,Dr. Khan,Cardiology,139488.0,Insurence,Bengaluru,Yes
+P1312,Patient_312,99.0,Female,AB-,Asthma,2024-08-24,2024-09-07,14,Dr. Khan,Neurology,46900.0,Credit Card,Pune,No
+P1291,Patient_291,69.0,Other,O-,Asthma,2024-11-07,2024-11-19,12,Dr. Khan,General Medicine,119886.0,Insurence,Pune,Yes
+P1123,Patient_123,7.0,Mlae,AB-,Fracture,2024-10-16,2024-10-24,8,Dr. Sharma,General Medicine,192237.0,Insurence,Chennai,Yes
+P1375,Patient_375,95.0,Male,AB+,Diabetes,2024-11-23,2024-11-29,6,Dr. Patel,Cardiology,137450.0,Insurance,Chennai,No
+P1096,Patient_96,53.0,Mlae,O+,Fracture,2024-09-20,2024-09-18,6,Dr. Mehta,Orthopedics,263501.0,Insurence,Chennai,No
+P1143,Patient_143,3.0,Feale,O+,Asthma,2024-10-19,2024-10-19,0,Dr. Mehta,Pediatrics,348390.0,Cash,Bengaluru,No
+P1239,Patient_239,75.0,Other,B-,Cardiac Arrest,2024-03-22,2024-03-20,4,Dr. Patel,General Medicine,241017.0,Insurance,Bengaluru,Yes
+P1277,Patient_277,50.0,Mlae,O+,Asthma,2024-09-23,2024-09-26,3,Dr. Sharma,Neurology,127149.0,Insurence,Delhi,Yes
+P1097,Patient_97,,Male,O-,Cardiac Arrest,2024-09-24,2024-09-20,6,Dr. Iyer,Neurology,221780.0,Insurence,Nagpur,Yes
+P1356,Patient_356,48.0,Other,AB-,Covid-19,2024-11-30,2024-12-07,7,Dr. Mehta,Orthopedics,272914.0,Cash,Mumbai,Yes
+P1122,Patient_122,28.0,Feale,B-,Diabetes,2024-10-20,2024-10-25,5,Dr. Mehta,Pediatrics,14763.0,Cash,Bengaluru,No
+P1183,Patient_183,30.0,Male,A-,Cardiac Arrest,2024-02-29,2024-02-24,6,Dr. Sharma,Orthopedics,114782.0,Cash,Mumbai,Yes
+P1202,Patient_202,51.0,Other,AB+,Diabetes,2024-07-18,2024-07-31,13,Dr. Sharma,Orthopedics,390832.0,Insurance,Nagpur,No
+P1246,Patient_246,70.0,Mlae,B-,Fracture,2024-09-19,2024-09-22,3,Dr. Mehta,Neurology,30365.0,Insurence,Mumbai,Yes
+P1311,Patient_311,89.0,Other,A+,Covid-19,2024-08-23,2024-09-06,14,Dr. Sharma,Pediatrics,322787.0,Credit Card,Chennai,No
+P1414,Patient_414,13.0,Female,B-,Cardiac Arrest,2024-01-11,2024-01-06,10,Dr. Sharma,Neurology,329477.0,Cash,Bengaluru,Yes
+P1357,Patient_357,19.0,Female,O-,Asthma,2024-12-24,2024-12-20,8,Dr. Patel,Cardiology,13093.0,Insurance,Nagpur,Yes
+P1305,Patient_305,75.0,Feale,A-,Cardiac Arrest,2024-01-09,2024-01-11,2,Dr. Khan,General Medicine,454145.0,Insurence,Mumbai,Yes
+P1403,Patient_403,9.0,Other,O-,Cardiac Arrest,2024-02-07,2024-02-04,10,Dr. Mehta,Pediatrics,227683.0,Insurence,Delhi,Yes
+P1382,Patient_382,87.0,Male,B+,Asthma,2024-12-02,2024-11-27,1,Dr. Mehta,Orthopedics,208940.0,Cash,Bengaluru,No
+P1125,Patient_125,72.0,Feale,O+,Diabetes,2024-05-09,2024-05-09,0,Dr. Patel,General Medicine,333759.0,Insurence,Pune,No
+P1488,Patient_488,,Female,O-,Fracture,2024-02-06,2024-02-21,15,Dr. Patel,Neurology,157378.0,Insurence,Delhi,No
+P1223,Patient_223,92.0,Feale,AB+,Covid-19,2024-10-21,2024-11-01,11,Dr. Khan,Cardiology,286154.0,Insurence,Bengaluru,No
+P1426,Patient_426,87.0,Female,A-,Asthma,2024-02-09,2024-02-19,10,Dr. Sharma,Orthopedics,439818.0,Insurence,Bengaluru,Yes
+P1219,Patient_219,81.0,Feale,O+,Diabetes,2024-07-04,2024-07-08,4,Dr. Patel,Orthopedics,179810.0,Insurence,Mumbai,Yes
+P1129,Patient_129,48.0,Other,AB+,Covid-19,2024-04-03,2024-04-04,1,Dr. Sharma,Neurology,93353.0,Insurance,Bengaluru,Yes
+P1428,Patient_428,92.0,Female,A+,Covid-19,2024-03-01,2024-02-28,4,Dr. Sharma,Pediatrics,313478.0,Insurence,Delhi,Yes
+P1484,Patient_484,34.0,Male,A+,Fracture,2024-10-05,2024-10-17,12,Dr. Patel,Pediatrics,228416.0,Insurence,Chennai,No
+P1334,Patient_334,33.0,Male,A+,Covid-19,2024-04-25,2024-04-22,4,Dr. Khan,Cardiology,335997.0,Cash,Chennai,No
+P1384,Patient_384,67.0,Other,O+,Cardiac Arrest,2024-10-13,2024-10-19,6,Dr. Mehta,Cardiology,463552.0,Credit Card,Chennai,No
+P1409,Patient_409,26.0,Other,B-,Diabetes,2024-08-06,2024-08-13,7,Dr. Sharma,Neurology,118656.0,Cash,Nagpur,Yes
+P1361,Patient_361,49.0,Mlae,B+,Cardiac Arrest,2024-06-24,2024-07-05,11,Dr. Khan,General Medicine,281713.0,Insurence,Delhi,No
+P1299,Patient_299,3.0,Female,AB+,Asthma,2024-10-27,2024-10-30,3,Dr. Mehta,Neurology,11885.0,Cash,Bengaluru,No
+P1294,Patient_294,9.0,Male,B+,Cardiac Arrest,2024-05-25,2024-06-06,12,Dr. Patel,Pediatrics,287711.0,Cash,Chennai,Yes
+P1373,Patient_373,46.0,Female,AB+,Diabetes,2024-03-13,2024-03-10,10,Dr. Patel,Pediatrics,350939.0,Cash,Bengaluru,Yes
+P1346,Patient_346,27.0,Mlae,O+,Covid-19,2024-10-05,2024-10-06,1,Dr. Sharma,Neurology,457160.0,Insurance,Nagpur,No
+P1112,Patient_112,88.0,Male,A-,Fracture,2024-02-19,2024-03-01,11,Dr. Patel,Cardiology,447358.0,Insurence,Chennai,Yes
+P1179,Patient_179,28.0,Feale,A-,Cardiac Arrest,2024-01-28,2024-02-08,11,Dr. Mehta,Orthopedics,231817.0,Cash,Nagpur,No
+P1477,Patient_477,62.0,Female,B-,Fever,2024-12-02,2024-12-14,12,Dr. Khan,Pediatrics,289139.0,Cash,Mumbai,No
+P1352,Patient_352,64.0,Male,AB-,Diabetes,2024-06-03,2024-06-08,5,Dr. Sharma,Cardiology,426475.0,Credit Card,Bengaluru,Yes
+P1336,Patient_336,76.0,Male,B+,Asthma,2024-02-01,2024-02-14,13,Dr. Iyer,Cardiology,313822.0,Insurance,Pune,No
+P1491,Patient_491,64.0,Other,AB-,Fever,2024-12-31,2024-12-26,7,Dr. Iyer,General Medicine,325494.0,Credit Card,Nagpur,No
+P1404,Patient_404,43.0,Female,AB-,Fever,2024-01-04,2024-01-01,7,Dr. Patel,Cardiology,498507.0,Credit Card,Mumbai,Yes
+P1233,Patient_233,90.0,Mlae,A-,Covid-19,2024-10-11,2024-10-14,3,Dr. Khan,Neurology,55909.0,Cash,Mumbai,No
+P1456,Patient_456,68.0,Mlae,A+,Diabetes,2024-05-29,2024-05-26,4,Dr. Mehta,Neurology,232363.0,Credit Card,Bengaluru,No
+P1317,Patient_317,66.0,Female,AB-,Covid-19,2024-02-21,2024-02-21,0,Dr. Khan,Orthopedics,462796.0,Cash,Delhi,No
+P1164,Patient_164,43.0,Feale,A+,Asthma,2024-12-14,2024-12-18,4,Dr. Khan,Pediatrics,264299.0,Cash,Delhi,No
+P1136,Patient_136,86.0,Mlae,B+,Covid-19,2024-08-05,2024-08-14,9,Dr. Mehta,Cardiology,178168.0,Insurence,Nagpur,Yes
+P1197,Patient_197,27.0,Other,O+,Covid-19,2024-03-11,2024-03-06,5,Dr. Sharma,Cardiology,52939.0,Insurance,Chennai,No
+P1258,Patient_258,59.0,Male,A-,Diabetes,2024-06-11,2024-06-26,15,Dr. Sharma,Orthopedics,257095.0,Insurance,Bengaluru,No
+P1232,Patient_232,44.0,Feale,B+,Fracture,2024-10-14,2024-10-21,7,Dr. Iyer,Pediatrics,36518.0,Insurance,Nagpur,Yes
+P1115,Patient_115,81.0,Mlae,O-,Asthma,2024-12-11,2024-12-12,1,Dr. Sharma,Orthopedics,414104.0,Cash,Pune,No
+P1120,Patient_120,,Feale,O+,Fever,2024-02-21,2024-02-23,2,Dr. Mehta,Neurology,11346.0,Insurence,Mumbai,Yes
+P1355,Patient_355,,Mlae,AB-,Diabetes,2024-05-27,2024-06-11,15,Dr. Khan,Neurology,32795.0,Cash,Delhi,Yes
+P1224,Patient_224,54.0,Female,B-,Fever,2024-12-10,2024-12-16,6,Dr. Mehta,Pediatrics,272931.0,Insurance,Bengaluru,Yes
+P1410,Patient_410,99.0,Feale,B+,Fracture,2024-06-03,2024-05-30,4,Dr. Khan,General Medicine,19087.0,Cash,Pune,No
+P1438,Patient_438,63.0,Mlae,O-,Fracture,2024-08-03,2024-07-30,5,Dr. Iyer,General Medicine,454734.0,Cash,Chennai,Yes
+P1127,Patient_127,34.0,Male,O+,Diabetes,2024-12-19,2024-12-23,4,Dr. Sharma,Pediatrics,122987.0,Insurance,Mumbai,No
+P1285,Patient_285,90.0,Male,AB-,Cardiac Arrest,2024-10-03,2024-10-13,10,Dr. Sharma,Pediatrics,345912.0,Cash,Chennai,No
+P1432,Patient_432,87.0,Female,A-,Asthma,2024-10-23,2024-10-31,8,Dr. Patel,Orthopedics,24207.0,Cash,Pune,No
+P1107,Patient_107,71.0,Feale,O-,Diabetes,2024-10-16,2024-10-19,3,Dr. Sharma,Cardiology,263691.0,Cash,Bengaluru,No
+P1377,Patient_377,60.0,Other,AB+,Fracture,2024-01-05,2024-01-20,15,Dr. Sharma,Orthopedics,376226.0,Insurence,Pune,Yes
+P1331,Patient_331,,Other,O+,Diabetes,2024-01-14,2024-01-28,14,Dr. Khan,Pediatrics,225563.0,Cash,Pune,No
+P1133,Patient_133,37.0,Other,A-,Diabetes,2024-06-10,2024-06-23,13,Dr. Khan,Neurology,323186.0,Insurance,Delhi,Yes
+P1370,Patient_370,37.0,Other,AB+,Cardiac Arrest,2024-02-19,2024-02-22,3,Dr. Patel,General Medicine,489121.0,Cash,Bengaluru,No
+P1044,Patient_44,51.0,Other,O-,Diabetes,2024-08-14,2024-08-09,9,Dr. Patel,General Medicine,212545.0,Cash,Mumbai,No
+P1470,Patient_470,63.0,Mlae,B+,Fracture,2024-02-16,2024-02-22,6,Dr. Khan,Neurology,287521.0,Cash,Pune,Yes
+P1065,Patient_65,35.0,Female,A+,Covid-19,2024-11-08,2024-11-03,2,Dr. Sharma,Neurology,397807.0,Credit Card,Nagpur,No
+P1283,Patient_283,7.0,Female,B+,Fever,2024-04-21,2024-04-29,8,Dr. Khan,General Medicine,392919.0,Insurence,Mumbai,No
+P1085,Patient_85,95.0,Mlae,AB-,Covid-19,2024-05-31,2024-06-12,12,Dr. Sharma,General Medicine,10438.0,Insurance,Pune,Yes
+P1242,Patient_242,38.0,Other,O-,Fever,2024-10-31,2024-11-07,7,Dr. Khan,Cardiology,454891.0,Cash,Bengaluru,Yes
+P1186,Patient_186,92.0,Feale,B+,Diabetes,2024-09-02,2024-09-16,14,Dr. Iyer,Pediatrics,404744.0,Credit Card,Nagpur,No
+P1391,Patient_391,46.0,Other,B-,Cardiac Arrest,2024-07-01,2024-07-03,2,Dr. Iyer,Orthopedics,196387.0,Credit Card,Delhi,Yes
+P1159,Patient_159,96.0,Feale,O+,Covid-19,2024-05-28,2024-05-23,2,Dr. Iyer,Orthopedics,89969.0,Insurance,Delhi,Yes
+P1012,Patient_12,3.0,Other,A-,Covid-19,2024-06-28,2024-07-05,7,Dr. Mehta,Cardiology,228058.0,Insurence,Bengaluru,Yes
+P1035,Patient_35,15.0,Feale,O-,Fever,2024-12-12,2024-12-12,0,Dr. Khan,Cardiology,349589.0,Cash,Nagpur,Yes
+P1028,Patient_28,49.0,Other,O+,Diabetes,2024-04-25,2024-04-25,0,Dr. Patel,Neurology,173918.0,Cash,Pune,No
+P1170,Patient_170,59.0,Female,B-,Fever,2024-11-20,2024-12-03,13,Dr. Mehta,Neurology,30795.0,Credit Card,Pune,Yes
+P1142,Patient_142,78.0,Female,B+,Covid-19,2024-01-19,2024-01-22,3,Dr. Iyer,Pediatrics,107400.0,Insurance,Pune,No
+P1406,Patient_406,39.0,Mlae,A+,Cardiac Arrest,2024-02-20,2024-03-01,10,Dr. Khan,Orthopedics,360182.0,Cash,Delhi,Yes
+P1124,Patient_124,,Other,AB+,Covid-19,2024-02-19,2024-02-29,10,Dr. Iyer,Orthopedics,240553.0,Credit Card,Nagpur,Yes
+P1221,Patient_221,2.0,Female,A+,Diabetes,2024-10-17,2024-10-26,9,Dr. Iyer,Cardiology,466894.0,Insurence,Mumbai,Yes
+P1095,Patient_95,82.0,Male,B-,Covid-19,2024-09-12,2024-09-26,14,Dr. Khan,General Medicine,157289.0,Insurance,Mumbai,No
+P1051,Patient_51,89.0,Feale,AB-,Diabetes,2024-04-24,2024-05-08,14,Dr. Iyer,General Medicine,252870.0,Cash,Chennai,Yes
+P1240,Patient_240,56.0,Feale,B+,Fracture,2024-04-23,2024-04-24,1,Dr. Patel,Pediatrics,416994.0,Cash,Nagpur,No
+P1398,Patient_398,27.0,Mlae,AB+,Asthma,2024-06-11,2024-06-21,10,Dr. Sharma,Cardiology,412925.0,Insurance,Chennai,Yes
+P1386,Patient_386,25.0,Female,A-,Diabetes,2024-12-01,2024-11-30,2,Dr. Iyer,General Medicine,4966159.0,Cash,Chennai,Yes
+P1178,Patient_178,6.0,Female,AB+,Asthma,2024-09-29,2024-10-14,15,Dr. Iyer,Cardiology,254419.0,Cash,Mumbai,No
+P1041,Patient_41,55.0,Other,B+,Fever,2024-09-29,2024-10-14,15,Dr. Sharma,Pediatrics,275260.0,Insurance,Mumbai,No
+P1444,Patient_444,49.0,Other,O+,Covid-19,2024-11-04,2024-11-19,15,Dr. Patel,Neurology,10210.0,Credit Card,Chennai,No
+P1395,Patient_395,86.0,Female,A-,Fracture,2024-02-07,2024-02-22,15,Dr. Iyer,Cardiology,88716.0,Credit Card,Nagpur,Yes
+P1206,Patient_206,59.0,Feale,O-,Cardiac Arrest,2024-08-17,2024-08-19,2,Dr. Iyer,Neurology,69990.0,Cash,Bengaluru,Yes
+P1282,Patient_282,99.0,Female,AB-,Fracture,2024-08-18,2024-08-26,8,Dr. Khan,General Medicine,183211.0,Insurence,Mumbai,Yes
+P1254,Patient_254,80.0,Other,B+,Fracture,2024-12-20,2024-12-31,11,Dr. Mehta,Cardiology,342754.0,Cash,Bengaluru,No
+P1420,Patient_420,20.0,Male,B+,Cardiac Arrest,2024-02-12,2024-02-12,0,Dr. Patel,Orthopedics,72448.0,Insurence,Chennai,Yes
+P1004,Patient_4,61.0,Feale,B+,Cardiac Arrest,2024-06-24,2024-07-04,10,Dr. Mehta,Orthopedics,181635.0,Cash,Mumbai,No
+P1256,Patient_256,3.0,Male,A-,Cardiac Arrest,2024-11-08,2024-11-16,8,Dr. Khan,General Medicine,58307.0,Cash,Pune,No
+P1457,Patient_457,,Feale,O-,Cardiac Arrest,2024-03-05,2024-03-18,13,Dr. Mehta,Cardiology,136393.0,Insurance,Mumbai,Yes
+P1100,Patient_100,60.0,Feale,O+,Diabetes,2024-07-03,2024-06-28,6,Dr. Iyer,Orthopedics,210347.0,Credit Card,Bengaluru,Yes
+P1226,Patient_226,96.0,Feale,A-,Cardiac Arrest,2024-12-23,2024-12-31,8,Dr. Patel,Pediatrics,141544.0,Credit Card,Delhi,Yes
+P1068,Patient_68,36.0,Male,AB+,Fever,2024-05-04,2024-05-01,4,Dr. Patel,Neurology,458586.0,Insurance,Nagpur,No
+P1213,Patient_213,52.0,Mlae,A+,Cardiac Arrest,2024-12-22,2025-01-04,13,Dr. Sharma,Pediatrics,198749.0,Cash,Nagpur,Yes
+P1436,Patient_436,25.0,Female,A+,Diabetes,2024-08-16,2024-08-29,13,Dr. Mehta,Neurology,154458.0,Insurance,Delhi,No
+P1171,Patient_171,86.0,Female,B-,Fever,2024-11-06,2024-11-04,8,Dr. Mehta,Orthopedics,188368.0,Insurance,Mumbai,No
+P1098,Patient_98,26.0,Male,A+,Diabetes,2024-08-03,2024-08-13,10,Dr. Khan,Orthopedics,297138.0,Credit Card,Nagpur,No
+P1292,Patient_292,37.0,Feale,AB-,Diabetes,2024-11-28,2024-11-24,10,Dr. Sharma,General Medicine,335054.0,Insurance,Chennai,Yes
+P1215,Patient_215,39.0,Mlae,A+,Diabetes,2024-06-07,2024-06-21,14,Dr. Iyer,Cardiology,88516.0,Cash,Bengaluru,No
+P1061,Patient_61,71.0,Female,AB+,Diabetes,2024-09-12,2024-09-27,15,Dr. Patel,Cardiology,275349.0,Insurance,Delhi,No
+P1047,Patient_47,73.0,Male,O+,Fracture,2024-05-21,2024-05-18,5,Dr. Mehta,Orthopedics,401845.0,Credit Card,Bengaluru,Yes
+P1032,Patient_32,92.0,Feale,O+,Asthma,2024-12-02,2024-11-28,2,Dr. Sharma,Neurology,212129.0,Cash,Pune,No
+P1267,Patient_267,52.0,Male,O-,Fever,2024-02-27,2024-02-25,2,Dr. Patel,Orthopedics,323855.0,Insurance,Bengaluru,Yes
+P1327,Patient_327,21.0,Female,B-,Cardiac Arrest,2024-07-29,2024-08-06,8,Dr. Mehta,Neurology,484604.0,Insurence,Pune,Yes
+P1200,Patient_200,37.0,Mlae,B-,Diabetes,2024-06-17,2024-06-18,1,Dr. Khan,Orthopedics,2377807.0,Insurance,Pune,Yes
+P1455,Patient_455,5.0,Feale,B-,Asthma,2024-03-09,2024-03-23,14,Dr. Khan,Pediatrics,450614.0,Insurence,Chennai,No
+P1027,Patient_27,89.0,Other,AB-,Cardiac Arrest,2024-10-07,2024-10-18,11,Dr. Sharma,Cardiology,416254.0,Cash,Pune,Yes
+P1397,Patient_397,66.0,Female,AB+,Asthma,2024-11-14,2024-11-25,11,Dr. Iyer,General Medicine,45056.0,Cash,Mumbai,Yes
+P1230,Patient_230,2.0,Other,AB+,Fever,2024-05-17,2024-05-27,10,Dr. Patel,Neurology,465001.0,Credit Card,Pune,No
+P1260,Patient_260,19.0,Other,A+,Covid-19,2024-07-30,2024-08-06,7,Dr. Mehta,General Medicine,36228.0,Cash,Nagpur,No
+P1378,Patient_378,97.0,Mlae,O+,Fever,2024-01-13,2024-01-11,9,Dr. Iyer,General Medicine,349515.0,Credit Card,Pune,No
+P1288,Patient_288,1.0,Male,A+,Cardiac Arrest,2024-11-11,2024-11-24,13,Dr. Iyer,Neurology,319013.0,Insurence,Delhi,Yes
+P1162,Patient_162,23.0,Other,A-,Diabetes,2024-10-07,2024-10-20,13,Dr. Iyer,General Medicine,207735.0,Cash,Bengaluru,No
+P1433,Patient_433,63.0,Male,O+,Fracture,2024-06-14,2024-06-09,7,Dr. Mehta,Cardiology,475866.0,Credit Card,Delhi,Yes
+P1138,Patient_138,35.0,Female,B-,Asthma,2024-12-27,2024-12-24,1,Dr. Iyer,Neurology,146302.0,Insurence,Delhi,Yes
+P1062,Patient_62,44.0,Other,AB+,Fever,2024-02-11,2024-02-11,0,Dr. Iyer,Pediatrics,450877.0,Insurence,Chennai,No
+P1135,Patient_135,44.0,Other,AB+,Cardiac Arrest,2024-06-05,2024-06-07,2,Dr. Khan,Neurology,373233.0,Cash,Mumbai,No
+P1128,Patient_128,33.0,Other,O+,Diabetes,2024-11-12,2024-11-09,2,Dr. Sharma,Orthopedics,218823.0,Insurance,Nagpur,No
+P1486,Patient_486,48.0,Female,O+,Diabetes,2024-01-27,2024-02-04,8,Dr. Iyer,Orthopedics,280859.0,Credit Card,Mumbai,Yes
+P1008,Patient_8,75.0,Other,O+,Cardiac Arrest,2024-06-10,2024-06-12,2,Dr. Iyer,General Medicine,212097.0,Cash,Mumbai,Yes
+P1326,Patient_326,14.0,Feale,AB+,Covid-19,2024-09-04,2024-09-05,1,Dr. Mehta,Cardiology,61871.0,Cash,Pune,No
+P1473,Patient_473,58.0,Feale,O-,Cardiac Arrest,2024-01-05,2024-01-18,13,Dr. Iyer,Orthopedics,40211.0,Insurance,Pune,No
+P1064,Patient_64,47.0,Female,A+,Fracture,2024-10-17,2024-10-21,4,Dr. Iyer,Pediatrics,270050.0,Cash,Bengaluru,No
+P1300,Patient_300,20.0,Mlae,A-,Diabetes,2024-04-04,2024-04-17,13,Dr. Patel,Pediatrics,454875.0,Cash,Pune,Yes
+P1014,Patient_14,53.0,Male,O+,Asthma,2024-09-24,2024-09-23,6,Dr. Patel,Cardiology,336091.0,Credit Card,Delhi,No
+P1156,Patient_156,63.0,Mlae,B+,Cardiac Arrest,2024-05-17,2024-05-14,8,Dr. Sharma,Cardiology,3044897.0,Credit Card,Pune,No
+P1040,Patient_40,51.0,Male,B+,Diabetes,2024-01-07,2024-01-04,2,Dr. Mehta,Neurology,8530.0,Credit Card,Pune,No
+P1379,Patient_379,63.0,Male,B+,Cardiac Arrest,2024-01-28,2024-02-03,6,Dr. Sharma,Pediatrics,162105.0,Cash,Delhi,Yes
+P1469,Patient_469,17.0,Feale,O+,Fever,2024-02-05,2024-02-04,1,Dr. Sharma,General Medicine,69411.0,Insurence,Nagpur,Yes
+P1411,Patient_411,50.0,Female,B-,Covid-19,2024-04-14,2024-04-12,1,Dr. Mehta,Pediatrics,407821.0,Cash,Pune,No
+P1216,Patient_216,2.0,Feale,A-,Fever,2024-05-05,2024-04-30,7,Dr. Mehta,Orthopedics,76567.0,Insurance,Bengaluru,No
+P1279,Patient_279,31.0,Other,AB+,Fever,2024-04-08,2024-04-06,9,Dr. Mehta,General Medicine,204435.0,Credit Card,Pune,Yes
+P1481,Patient_481,1.0,Other,AB+,Covid-19,2024-07-17,2024-07-19,2,Dr. Sharma,Cardiology,12651.0,Insurance,Mumbai,Yes
+P1439,Patient_439,62.0,Mlae,B+,Covid-19,2024-03-27,2024-04-10,14,Dr. Mehta,Pediatrics,316925.0,Cash,Nagpur,Yes
+P1337,Patient_337,59.0,Feale,AB-,Covid-19,2024-06-16,2024-06-15,6,Dr. Patel,Orthopedics,290793.0,Cash,Mumbai,Yes
+P1236,Patient_236,32.0,Male,AB-,Cardiac Arrest,2024-03-03,2024-03-10,7,Dr. Iyer,Orthopedics,448546.0,Credit Card,Pune,No
+P1207,Patient_207,,Male,AB+,Covid-19,2024-03-08,2024-03-19,11,Dr. Patel,General Medicine,60810.0,Insurence,Delhi,Yes
+P1212,Patient_212,58.0,Other,AB+,Fever,2024-08-07,2024-08-02,3,Dr. Khan,General Medicine,135669.0,Cash,Bengaluru,No
+P1295,Patient_295,99.0,Female,A-,Covid-19,2024-10-26,2024-11-07,12,Dr. Patel,Pediatrics,37292.0,Cash,Nagpur,Yes
+P1499,Patient_499,16.0,Mlae,B-,Diabetes,2024-02-27,2024-03-01,3,Dr. Sharma,Orthopedics,143130.0,Cash,Delhi,No
+P1251,Patient_251,73.0,Female,A+,Cardiac Arrest,2024-01-15,2024-01-19,4,Dr. Iyer,Pediatrics,212294.0,Cash,Bengaluru,Yes
+P1498,Patient_498,26.0,Male,O+,Fracture,2024-07-24,2024-08-07,14,Dr. Mehta,Orthopedics,429826.0,Insurance,Nagpur,Yes
+P1467,Patient_467,30.0,Other,A-,Asthma,2024-05-01,2024-05-01,0,Dr. Sharma,Cardiology,136832.0,Cash,Mumbai,No
+P1303,Patient_303,33.0,Feale,B-,Diabetes,2024-02-14,2024-02-17,3,Dr. Iyer,Pediatrics,329231.0,Cash,Mumbai,Yes
+P1350,Patient_350,97.0,Feale,B-,Fever,2024-04-07,2024-04-09,2,Dr. Patel,Neurology,150934.0,Insurence,Pune,Yes
+P1269,Patient_269,40.0,Male,B-,Asthma,2024-11-06,2024-11-11,5,Dr. Iyer,Pediatrics,79175.0,Cash,Nagpur,Yes
+P1201,Patient_201,97.0,Feale,O-,Fever,2024-02-10,2024-02-19,9,Dr. Iyer,Orthopedics,52290.0,Insurence,Bengaluru,Yes
+P1161,Patient_161,94.0,Male,O-,Fracture,2024-04-17,2024-04-20,3,Dr. Khan,Cardiology,432562.0,Insurence,Nagpur,No
+P1043,Patient_43,3.0,Mlae,A-,Cardiac Arrest,2024-05-03,2024-05-09,6,Dr. Sharma,Pediatrics,395498.0,Cash,Delhi,Yes
+P1217,Patient_217,3.0,Female,B-,Asthma,2024-01-27,2024-01-25,1,Dr. Sharma,Neurology,279181.0,Insurance,Chennai,Yes
+P1401,Patient_401,17.0,Mlae,O+,Fracture,2024-05-07,2024-05-07,0,Dr. Patel,Cardiology,281687.0,Insurence,Bengaluru,Yes
+P1190,Patient_190,1.0,Male,A+,Cardiac Arrest,2024-09-11,2024-09-24,13,Dr. Patel,Neurology,403395.0,Credit Card,Delhi,No
+P1309,Patient_309,84.0,Male,AB+,Fracture,2024-08-30,2024-08-28,6,Dr. Iyer,Orthopedics,183572.0,Credit Card,Delhi,Yes
+P1259,Patient_259,36.0,Mlae,O+,Diabetes,2024-12-21,2025-01-04,14,Dr. Khan,General Medicine,314229.0,Insurance,Pune,No
+P1105,Patient_105,65.0,Male,O-,Fracture,2024-01-14,2024-01-12,5,Dr. Iyer,Neurology,133717.0,Insurence,Delhi,No
+P1053,Patient_53,14.0,Other,AB+,Cardiac Arrest,2024-04-24,2024-04-30,6,Dr. Iyer,Neurology,198103.0,Credit Card,Chennai,Yes
+P1389,Patient_389,,Male,AB+,Covid-19,2024-04-30,2024-04-29,4,Dr. Iyer,Neurology,347519.0,Cash,Nagpur,No
+P1001,Patient_1,93.0,Other,AB-,Diabetes,2024-03-02,2024-03-04,2,Dr. Sharma,Orthopedics,20658.0,Credit Card,Pune,No
+P1450,Patient_450,60.0,Mlae,O-,Fever,2024-06-14,2024-06-18,4,Dr. Patel,Cardiology,205196.0,Cash,Mumbai,No
+P1492,Patient_492,63.0,Female,A-,Fever,2024-08-15,2024-08-13,10,Dr. Sharma,Orthopedics,335569.0,Cash,Delhi,No
+P1049,Patient_49,18.0,Female,A+,Covid-19,2024-12-25,2024-12-26,1,Dr. Patel,Pediatrics,389291.0,Cash,Bengaluru,Yes
+P1419,Patient_419,45.0,Feale,AB-,Fracture,2024-05-21,2024-05-20,9,Dr. Iyer,Neurology,245236.0,Insurance,Pune,No
+P1080,Patient_80,,Male,B+,Diabetes,2024-06-18,2024-06-16,5,Dr. Sharma,Neurology,265427.0,Insurence,Delhi,Yes
+P1205,Patient_205,79.0,Mlae,AB+,Diabetes,2024-11-19,2024-11-24,5,Dr. Iyer,Cardiology,286890.0,Insurance,Delhi,No
+P1034,Patient_34,80.0,Feale,B-,Fever,2024-01-27,2024-01-24,9,Dr. Khan,Pediatrics,424355.0,Insurence,Bengaluru,No
+P1430,Patient_430,66.0,Feale,A+,Fracture,2024-05-19,2024-05-17,6,Dr. Khan,Pediatrics,24054.0,Credit Card,Chennai,Yes
+P1263,Patient_263,19.0,Mlae,B-,Asthma,2024-01-12,2024-01-22,10,Dr. Khan,Cardiology,426871.0,Credit Card,Bengaluru,No
+P1427,Patient_427,15.0,Feale,B+,Cardiac Arrest,2024-02-15,2024-02-22,7,Dr. Patel,Neurology,378742.0,Credit Card,Chennai,No
+P1366,Patient_366,93.0,Female,O-,Cardiac Arrest,2024-02-10,2024-02-22,12,Dr. Sharma,Cardiology,306214.0,Cash,Mumbai,Yes
+P1091,Patient_91,62.0,Other,B-,Diabetes,2024-06-27,2024-06-25,10,Dr. Patel,Pediatrics,241968.0,Insurance,Delhi,Yes
+P1339,Patient_339,22.0,Other,B+,Fracture,2024-10-11,2024-10-10,3,Dr. Mehta,Cardiology,90668.0,Credit Card,Pune,Yes
+P1483,Patient_483,1.0,Mlae,O+,Fracture,2024-11-17,2024-11-28,11,Dr. Iyer,Orthopedics,343075.0,Cash,Mumbai,No
+P1052,Patient_52,60.0,Other,AB-,Fracture,2024-06-02,2024-06-03,1,Dr. Khan,General Medicine,91087.0,Cash,Chennai,No
+P1345,Patient_345,27.0,Mlae,AB+,Fracture,2024-07-04,2024-07-11,7,Dr. Mehta,Pediatrics,98019.0,Insurence,Nagpur,No
+P1264,Patient_264,20.0,Mlae,A+,Fracture,2024-11-04,2024-11-08,4,Dr. Khan,General Medicine,45472.0,Insurence,Pune,Yes
+P1241,Patient_241,17.0,Other,B+,Asthma,2024-01-19,2024-01-20,1,Dr. Mehta,General Medicine,419480.0,Cash,Mumbai,No
+P1013,Patient_13,22.0,Feale,O-,Covid-19,2024-02-21,2024-02-22,1,Dr. Patel,Cardiology,135623.0,Insurance,Delhi,No
+P1315,Patient_315,18.0,Feale,AB+,Diabetes,2024-12-26,2025-01-03,8,Dr. Khan,General Medicine,280432.0,Cash,Nagpur,No
+P1088,Patient_88,72.0,Feale,AB+,Asthma,2024-04-08,2024-04-04,4,Dr. Patel,Pediatrics,403220.0,Credit Card,Bengaluru,No
+P1387,Patient_387,95.0,Feale,A-,Covid-19,2024-06-24,2024-07-01,7,Dr. Iyer,Neurology,75869.0,Cash,Delhi,Yes
+P1273,Patient_273,,Feale,A+,Diabetes,2024-08-26,2024-09-01,6,Dr. Sharma,Neurology,97028.0,Cash,Nagpur,Yes
+P1166,Patient_166,36.0,Mlae,AB-,Fever,2024-01-23,2024-01-24,1,Dr. Patel,Pediatrics,331638.0,Cash,Pune,Yes
+P1328,Patient_328,48.0,Mlae,AB-,Covid-19,2024-06-08,2024-06-20,12,Dr. Sharma,Pediatrics,493862.0,Cash,Mumbai,No
+P1374,Patient_374,53.0,Female,A-,Covid-19,2024-04-09,2024-04-09,0,Dr. Sharma,Pediatrics,293077.0,Insurance,Delhi,Yes
+P1134,Patient_134,99.0,Mlae,B+,Cardiac Arrest,2024-11-08,2024-11-08,0,Dr. Sharma,General Medicine,20099.0,Credit Card,Bengaluru,Yes
+P1306,Patient_306,72.0,Other,O-,Asthma,2024-05-26,2024-06-10,15,Dr. Patel,Orthopedics,462244.0,Cash,Chennai,No
+P1490,Patient_490,61.0,Female,O-,Diabetes,2024-10-03,2024-10-07,4,Dr. Sharma,Pediatrics,409592.0,Cash,Chennai,Yes
+P1319,Patient_319,35.0,Female,A-,Fever,2024-11-14,2024-11-18,4,Dr. Iyer,Cardiology,349580.0,Cash,Bengaluru,No
+P1243,Patient_243,,Mlae,AB-,Cardiac Arrest,2024-06-09,2024-06-06,3,Dr. Khan,Cardiology,269219.0,Insurence,Mumbai,Yes
+P1054,Patient_54,9.0,Feale,AB-,Asthma,2024-07-26,2024-08-04,9,Dr. Mehta,Orthopedics,297524.0,Cash,Chennai,Yes
+P1363,Patient_363,,Other,B-,Asthma,2024-08-31,2024-09-15,15,Dr. Khan,Orthopedics,326968.0,Insurence,Nagpur,Yes
+P1050,Patient_50,4.0,Mlae,A-,Covid-19,2024-07-24,2024-08-02,9,Dr. Mehta,Cardiology,480336.0,Cash,Chennai,Yes
+P1465,Patient_465,16.0,Other,AB+,Covid-19,2024-04-12,2024-04-19,7,Dr. Sharma,Cardiology,168892.0,Cash,Pune,Yes
+P1174,Patient_174,42.0,Other,O+,Cardiac Arrest,2024-03-22,2024-03-23,1,Dr. Sharma,Orthopedics,437030.0,Insurence,Bengaluru,Yes
+P1445,Patient_445,52.0,Other,O+,Fracture,2024-11-18,2024-11-14,2,Dr. Iyer,Cardiology,46363.0,Cash,Delhi,Yes
+P1189,Patient_189,97.0,Male,AB-,Fracture,2024-04-26,2024-05-08,12,Dr. Sharma,Orthopedics,374013.0,Cash,Delhi,Yes
+P1377,Patient_377,60.0,Other,AB+,Fracture,2024-01-05,2024-01-20,15,Dr. Sharma,Orthopedics,376226.0,Insurence,Pune,Yes
+P1463,Patient_463,40.0,Female,A-,Diabetes,2024-05-13,2024-05-21,8,Dr. Patel,Orthopedics,474406.0,Cash,Nagpur,No
+P1187,Patient_187,89.0,Male,O+,Fever,2024-01-04,2024-01-12,8,Dr. Iyer,Neurology,489028.0,Cash,Nagpur,No
+P1169,Patient_169,71.0,Mlae,B-,Fever,2024-10-12,2024-10-25,13,Dr. Iyer,General Medicine,40547.0,Insurence,Chennai,Yes
+P1058,Patient_58,84.0,Female,O+,Fever,2024-12-19,2024-12-23,4,Dr. Patel,Pediatrics,223796.0,Cash,Chennai,Yes
+P1048,Patient_48,,Male,A-,Cardiac Arrest,2024-08-28,2024-09-11,14,Dr. Khan,General Medicine,373616.0,Insurance,Chennai,No
+P1344,Patient_344,,Mlae,A+,Fever,2024-05-16,2024-05-17,1,Dr. Khan,General Medicine,241141.0,Insurance,Chennai,Yes
+P1235,Patient_235,70.0,Male,A+,Diabetes,2024-02-13,2024-02-09,1,Dr. Khan,Orthopedics,4797829.0,Insurance,Bengaluru,Yes
+P1252,Patient_252,59.0,Mlae,O+,Cardiac Arrest,2024-10-14,2024-10-21,7,Dr. Patel,Cardiology,358984.0,Insurance,Bengaluru,Yes
+P1021,Patient_21,,Feale,B+,Fracture,2024-01-25,2024-02-04,10,Dr. Patel,General Medicine,340083.0,Insurence,Pune,No
+P1313,Patient_313,25.0,Mlae,O+,Asthma,2024-03-07,2024-03-12,5,Dr. Iyer,Orthopedics,438162.0,Credit Card,Pune,No
+P1459,Patient_459,94.0,Mlae,A+,Fever,2024-08-14,2024-08-29,15,Dr. Sharma,Pediatrics,432599.0,Credit Card,Mumbai,No
+P1160,Patient_160,4.0,Male,AB-,Diabetes,2024-08-20,2024-08-15,3,Dr. Khan,Pediatrics,134161.0,Insurence,Nagpur,Yes
+P1276,Patient_276,89.0,Other,AB-,Cardiac Arrest,2024-07-03,2024-07-02,5,Dr. Mehta,Pediatrics,94493.0,Credit Card,Chennai,No
+P1443,Patient_443,86.0,Male,A-,Fever,2024-06-07,2024-06-15,8,Dr. Sharma,Neurology,325179.0,Cash,Chennai,No
+P1191,Patient_191,27.0,Male,O-,Fracture,2024-07-30,2024-08-05,6,Dr. Patel,Orthopedics,312925.0,Cash,Pune,No
+P1385,Patient_385,18.0,Male,B-,Fracture,2024-10-07,2024-10-22,15,Dr. Iyer,Cardiology,359218.0,Insurance,Bengaluru,Yes
+P1293,Patient_293,32.0,Male,AB-,Fracture,2024-09-10,2024-09-14,4,Dr. Patel,Neurology,481926.0,Cash,Delhi,Yes
+P1413,Patient_413,24.0,Male,O-,Asthma,2024-07-13,2024-07-16,3,Dr. Iyer,General Medicine,138554.0,Cash,Chennai,No
+P1343,Patient_343,54.0,Other,O-,Cardiac Arrest,2024-06-21,2024-07-02,11,Dr. Iyer,Orthopedics,354050.0,Credit Card,Chennai,No
+P1257,Patient_257,20.0,Female,B-,Asthma,2024-06-14,2024-06-24,10,Dr. Sharma,Neurology,137565.0,Insurance,Pune,Yes
+P1308,Patient_308,38.0,Male,B+,Diabetes,2024-11-01,2024-10-28,2,Dr. Iyer,Orthopedics,51812.0,Insurance,Pune,No
+P1149,Patient_149,9.0,Female,O-,Covid-19,2024-11-15,2024-11-11,6,Dr. Patel,Neurology,188987.0,Insurance,Nagpur,No
+P1130,Patient_130,23.0,Female,B-,Cardiac Arrest,2024-02-02,2024-02-15,13,Dr. Iyer,Cardiology,223373.0,Credit Card,Nagpur,No
+P1151,Patient_151,15.0,Female,AB-,Fracture,2024-03-26,2024-04-04,9,Dr. Khan,General Medicine,471853.0,Insurance,Chennai,No
+P1359,Patient_359,35.0,Female,AB-,Fracture,2024-06-07,2024-06-08,1,Dr. Khan,Pediatrics,395409.0,Credit Card,Mumbai,No
+P1099,Patient_99,89.0,Male,A+,Cardiac Arrest,2024-01-06,2024-01-14,8,Dr. Patel,Neurology,148108.0,Insurence,Delhi,Yes
+P1372,Patient_372,93.0,Feale,A-,Diabetes,2024-04-28,2024-05-06,8,Dr. Mehta,Cardiology,401932.0,Insurence,Delhi,No
+P1087,Patient_87,15.0,Mlae,AB+,Covid-19,2024-06-08,2024-06-14,6,Dr. Patel,Orthopedics,149226.0,Cash,Delhi,Yes
+P1458,Patient_458,96.0,Male,A-,Asthma,2024-08-06,2024-08-02,9,Dr. Mehta,Orthopedics,345492.0,Cash,Pune,Yes
+P1330,Patient_330,8.0,Other,AB+,Fever,2024-08-09,2024-08-09,0,Dr. Mehta,General Medicine,2583884.0,Insurence,Chennai,No
+P1214,Patient_214,12.0,Male,O+,Fracture,2024-06-02,2024-06-06,4,Dr. Mehta,Pediatrics,266803.0,Cash,Mumbai,Yes
+P1466,Patient_466,13.0,Feale,O+,Cardiac Arrest,2024-08-29,2024-09-10,12,Dr. Mehta,Cardiology,330406.0,Cash,Bengaluru,Yes
+P1121,Patient_121,41.0,Male,AB-,Asthma,2024-05-11,2024-05-25,14,Dr. Mehta,Neurology,264731.0,Cash,Chennai,No
+P1450,Patient_450,60.0,Mlae,O-,Fever,2024-06-14,2024-06-18,4,Dr. Patel,Cardiology,205196.0,Cash,Mumbai,No
+P1020,Patient_20,64.0,Female,B+,Cardiac Arrest,2024-05-06,2024-05-06,0,Dr. Iyer,General Medicine,154872.0,Cash,Delhi,No
+P1188,Patient_188,62.0,Feale,O-,Fracture,2024-08-01,2024-08-15,14,Dr. Khan,Orthopedics,445316.0,Cash,Mumbai,No
+P1071,Patient_71,,Other,O-,Covid-19,2024-09-25,2024-09-20,7,Dr. Iyer,Neurology,369631.0,Cash,Delhi,No
+P1106,Patient_106,89.0,Feale,B-,Asthma,2024-02-27,2024-02-29,2,Dr. Iyer,Pediatrics,164002.0,Insurance,Delhi,Yes
+P1270,Patient_270,39.0,Mlae,AB+,Covid-19,2024-08-18,2024-08-25,7,Dr. Iyer,Pediatrics,66307.0,Credit Card,Delhi,Yes
+P1348,Patient_348,21.0,Male,B+,Diabetes,2024-05-30,2024-06-06,7,Dr. Mehta,General Medicine,30803.0,Cash,Delhi,No
+P1435,Patient_435,51.0,Feale,AB+,Fracture,2024-12-11,2024-12-11,0,Dr. Khan,Cardiology,83554.0,Cash,Bengaluru,Yes
+P1102,Patient_102,29.0,Other,B+,Covid-19,2024-08-15,2024-08-13,5,Dr. Sharma,Pediatrics,444632.0,Insurence,Bengaluru,Yes
